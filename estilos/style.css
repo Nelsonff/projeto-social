@@ -34,3 +34,10 @@ body {
     background: url('../imagens/frame-iphone.png') no-repeat;
   
  }
+
+ iframe#tela {
+    height: 471px;
+    width: 269px;
+    padding-top: 80px;
+    padding-left: 21px;
+ }
